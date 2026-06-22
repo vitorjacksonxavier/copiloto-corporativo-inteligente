@@ -1,0 +1,28 @@
+node_modules
+dist
+.netlify
+*.local
+*.tsbuildinfo
+.claude/scheduled_tasks.lock
+.env
+.env.*
+!.env.example
+
+# Logs
+npm-debug.log*
+*.log
+
+# Arquivos temporários do Office
+~$*
+~WRL*.tmp
+
+# Config local do Claude Code (contém comandos/credenciais locais — não versionar)
+.claude/settings.local.json
+
+# Backups locais
+*- backup.docx
+
+# Documentos do trabalho e prints (mantidos apenas localmente)
+TRABALHO - IA Generativa Aplicada ao Desenvolvimento.docx.pdf
+TRABALHO Copiloto Corporativo com IA.docx
+docs/
