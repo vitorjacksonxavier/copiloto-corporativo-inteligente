@@ -27,6 +27,14 @@ modelo de linguagem, que produz uma resposta **ancorada nas fontes**.
 
 ---
 
+## 🖼️ Demonstração
+
+Pergunta respondida em linguagem natural a partir do acervo, com **citação da fonte**:
+
+![Copiloto Corporativo Inteligente respondendo, com base no documento, o que acontece se o contador não tiver registro no CRC — exibindo a fonte citada](assets/demonstracao.png)
+
+---
+
 ## 🏗️ Arquitetura (100% Netlify)
 
 ```
